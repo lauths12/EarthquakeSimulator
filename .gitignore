@@ -97,3 +97,32 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.svd
+*.opendb
+*.VC.db
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# ARCHIVOS GIGANTES QUE NO QUIERES EN GITHUB
+AssetsLaura.zip
+*.zip
+*.mp4
+*.mov
+*.avi
