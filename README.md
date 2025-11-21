@@ -19,7 +19,10 @@ Antes de abrir el proyecto o el ejecutable, necesitas:
 
 ## 🖼️ Imagen representativa
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/333d6131-5957-470a-ae9a-49e092597151" width="250" />
+  <img src="https://github.com/user-attachments/assets/72e95f2f-e96e-4951-a52a-7a82df4c65a0" width="250" />
+</p>
 
 ---
 
